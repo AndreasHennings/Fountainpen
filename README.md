@@ -1,6 +1,6 @@
 # Fountainpen
 Created by Andreas Hennings using Blender 2.92
-![image](/Armor3.png)
+![image](/Fountainpen.png)
 
 A medieval style plate armor created for using with MakeHuman avatars.
 MediumPoly mesh has 18k vertices.
